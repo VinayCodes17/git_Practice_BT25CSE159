@@ -23,4 +23,16 @@ This repository contains solutions for the Git Practice and Shell Programming as
 ---
 
 ## Instructions to Run the Programs
-Detailed execution instructions will be updated with each exercise implementation.
+
+### Execution Prerequisites
+Ensure bash is available and grant executable permissions to the shell scripts before running:
+```bash
+chmod +x exercise-01/evaluate_grades.sh
+chmod +x exercise-02/analyze_logs.sh
+```
+
+### Executing Exercise 01
+Run the grade evaluation script with `exercise-01/input.txt`:
+```bash
+./exercise-01/evaluate_grades.sh exercise-01/input.txt
+```
