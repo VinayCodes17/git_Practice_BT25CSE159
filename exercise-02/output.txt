@@ -1,0 +1,20 @@
+================================================================================
+                     WEB SERVER ACCESS LOG ANALYSIS REPORT                      
+================================================================================
+Total Requests Analyzed  : 12
+Average Response Time    : 152.08 ms
+--------------------------------------------------------------------------------
+HTTP Status Code Distribution:
+  - 2xx Success          : 7 (58.3%)
+  - 3xx Redirection      : 0 (0.0%)
+  - 4xx Client Error     : 4 (33.3%)
+  - 5xx Server Error     : 1 (8.3%)
+--------------------------------------------------------------------------------
+Top Client IP Addresses by Activity:
+  1. 10.0.0.45          : 4 requests
+  2. 192.168.1.105      : 3 requests
+  3. 192.168.1.112      : 2 requests
+--------------------------------------------------------------------------------
+Security Watchlist (IPs with multiple 4xx errors):
+  [ALERT] IP 10.0.0.45       generated 4 client errors (potential probing)
+================================================================================
