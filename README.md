@@ -23,4 +23,16 @@ This repository contains solutions for the Git Practice and Shell Programming as
 ---
 
 ## Instructions to Run the Programs
-Detailed execution instructions will be updated with each exercise implementation.
+
+### Quick Start Commands
+Execute the scripts directly via bash interpreter passing the sample input file:
+
+- **Exercise 1 (Grade Evaluation):**
+  ```bash
+  bash exercise-01/evaluate_grades.sh exercise-01/input.txt
+  ```
+
+- **Exercise 2 (Log Analyzer):**
+  ```bash
+  bash exercise-02/analyze_logs.sh exercise-02/input.txt
+  ```
