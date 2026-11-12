@@ -1,0 +1,9 @@
+RollNo,Name,Physics,Chemistry,Maths
+BT25CSE001,Aarav Sharma,85,92,78
+BT25CSE002,Bhavna Patel,72,68,75
+BT25CSE003,Chirag Gupta,90,95,94
+BT25CSE004,Divya Nair,55,60,58
+BT25CSE005,Eshaan Verma,38,42,40
+BT25CSE006,Fatima Khan,88,84,91
+BT25CSE007,Gaurav Singh,45,52,48
+BT25CSE008,Harini Reddy,94,89,96

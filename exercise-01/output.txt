@@ -1,0 +1,20 @@
+================================================================================
+                      STUDENT ACADEMIC PERFORMANCE REPORT                       
+================================================================================
+Roll No      Name             Physics  Chem     Maths    Total    Percentage   Grade 
+--------------------------------------------------------------------------------
+BT25CSE001   Aarav Sharma     85       92       78       255      85.00%      A     
+BT25CSE002   Bhavna Patel     72       68       75       215      71.67%      B     
+BT25CSE003   Chirag Gupta     90       95       94       279      93.00%      A+    
+BT25CSE004   Divya Nair       55       60       58       173      57.67%      D     
+BT25CSE005   Eshaan Verma     38       42       40       120      40.00%      F     
+BT25CSE006   Fatima Khan      88       84       91       263      87.67%      A     
+BT25CSE007   Gaurav Singh     45       52       48       145      48.33%      F     
+BT25CSE008   Harini Reddy     94       89       96       279      93.00%      A+    
+--------------------------------------------------------------------------------
+Total Students Evaluated : 8
+Passed                   : 6
+Failed                   : 2
+Class Average Percentage : 72.04%
+Highest Scorer (Topper)  : Chirag Gupta (BT25CSE003) with 93.00%
+================================================================================
