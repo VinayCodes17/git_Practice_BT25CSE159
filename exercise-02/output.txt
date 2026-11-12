@@ -18,3 +18,4 @@ Top Client IP Addresses by Activity:
 Security Watchlist (IPs with multiple 4xx errors):
   [ALERT] IP 10.0.0.45       generated 4 client errors (potential probing)
 ================================================================================
+
